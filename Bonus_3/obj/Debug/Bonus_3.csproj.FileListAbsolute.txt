@@ -1,0 +1,6 @@
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Bonus_3\Bonus_3\bin\Debug\Bonus_3.exe.config
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Bonus_3\Bonus_3\bin\Debug\Bonus_3.exe
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Bonus_3\Bonus_3\bin\Debug\Bonus_3.pdb
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Bonus_3\Bonus_3\obj\Debug\Bonus_3.csprojResolveAssemblyReference.cache
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Bonus_3\Bonus_3\obj\Debug\Bonus_3.exe
+C:\Users\tdrie\Documents\Visual Studio 2015\Projects\Bonus_3\Bonus_3\obj\Debug\Bonus_3.pdb
